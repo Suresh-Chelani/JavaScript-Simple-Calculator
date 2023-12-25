@@ -1,6 +1,5 @@
-## Responsive JavaScript Calculator
-
-Descriptions for its functionality:
+## Responsive JavaScript Calculator <p>Live site <a href = "https://calculate-with-suresh.netlify.app/">Click</a> here</p>
+<h1><strong>Descriptions for its functionality:</strong></h1>
 
 ## HTML Structure:
 - The HTML file defines the structure of a simple calculator web page.
